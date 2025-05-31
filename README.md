@@ -27,4 +27,4 @@ By ensuring the consistency and authenticity of files, a file integrity checker 
 This tool is simple, lightweight, and effective for anyone needing to track changes to their files and protect against unexpected modifications.
 
 #OUTPUT: 
----
+![Image](https://github.com/user-attachments/assets/f0b521d6-bb4a-4e9e-8b0f-7435d5172a3d)
